@@ -6,4 +6,4 @@ Aplikasi Catatan Backend Menggunakan HAPI JS
 - Mengubah Catatan  
 - Menghapus Catatan  
 - Menampilkan Catatan  
-- Filter berdasarkan status  
+- Filter berdasarkan id  
